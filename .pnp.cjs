@@ -29,8 +29,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@commitlint/cli", "npm:17.3.0"],\
+            ["@commitlint/config-conventional", "npm:17.3.0"],\
             ["commitizen", "npm:4.2.5"],\
-            ["cz-customizable", "npm:7.0.0"]\
+            ["cz-customizable", "npm:7.0.0"],\
+            ["husky", "npm:8.0.2"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -81,6 +83,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["resolve-from", "npm:5.0.0"],\
             ["resolve-global", "npm:1.0.0"],\
             ["yargs", "npm:17.6.2"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["@commitlint/config-conventional", [\
+        ["npm:17.3.0", {\
+          "packageLocation": "./.yarn/cache/@commitlint-config-conventional-npm-17.3.0-d8ddc41628-cf11a2b538.zip/node_modules/@commitlint/config-conventional/",\
+          "packageDependencies": [\
+            ["@commitlint/config-conventional", "npm:17.3.0"],\
+            ["conventional-changelog-conventionalcommits", "npm:5.0.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -801,6 +813,18 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["conventional-changelog-conventionalcommits", [\
+        ["npm:5.0.0", {\
+          "packageLocation": "./.yarn/cache/conventional-changelog-conventionalcommits-npm-5.0.0-a270202fe8-b67d12e4e0.zip/node_modules/conventional-changelog-conventionalcommits/",\
+          "packageDependencies": [\
+            ["conventional-changelog-conventionalcommits", "npm:5.0.0"],\
+            ["compare-func", "npm:2.0.0"],\
+            ["lodash", "npm:4.17.21"],\
+            ["q", "npm:1.5.1"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["conventional-commit-types", [\
         ["npm:3.0.0", {\
           "packageLocation": "./.yarn/cache/conventional-commit-types-npm-3.0.0-e12e37c124-b9552de6a3.zip/node_modules/conventional-commit-types/",\
@@ -1394,6 +1418,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/human-signals-npm-2.1.0-f75815481d-b87fd89fce.zip/node_modules/human-signals/",\
           "packageDependencies": [\
             ["human-signals", "npm:2.1.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["husky", [\
+        ["npm:8.0.2", {\
+          "packageLocation": "./.yarn/cache/husky-npm-8.0.2-46c70b41ed-e101656fcb.zip/node_modules/husky/",\
+          "packageDependencies": [\
+            ["husky", "npm:8.0.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2491,8 +2524,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["semantic-release-test", "workspace:."],\
             ["@commitlint/cli", "npm:17.3.0"],\
+            ["@commitlint/config-conventional", "npm:17.3.0"],\
             ["commitizen", "npm:4.2.5"],\
-            ["cz-customizable", "npm:7.0.0"]\
+            ["cz-customizable", "npm:7.0.0"],\
+            ["husky", "npm:8.0.2"]\
           ],\
           "linkType": "SOFT"\
         }]\
