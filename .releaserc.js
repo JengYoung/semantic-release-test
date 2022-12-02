@@ -1,4 +1,4 @@
-{
+module.exports = {
   "branches": [
     "main"
   ],
@@ -31,7 +31,11 @@
       "@semantic-release/changelog",
       {
         "changelogFile": "CHANGELOG.md",
-        "changelogTitle": "🚦 CHANGELOG | 변경 사항"
+        "changelogTitle": `
+          # 🚦 CHANGELOG | 변경 사항
+          ---
+          
+        `
       }
     ],
     [
