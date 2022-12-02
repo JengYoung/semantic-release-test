@@ -1,0 +1,9 @@
+{
+  "name": "semantic-release-test",
+  "packageManager": "yarn@3.3.0",
+  "devDependencies": {
+    "@commitlint/cli": "^17.3.0",
+    "commitizen": "^4.2.5",
+    "cz-customizable": "^7.0.0"
+  }
+}
