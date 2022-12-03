@@ -1,5 +1,13 @@
 # 🚦 CHANGELOG | 변경 사항을 기록해요.
 
+## [2.1.0](https://github.com/JengYoung/semantic-release-test/compare/v2.0.0...v2.1.0) (2022-12-03)
+
+
+### ♻️ Refactor
+
+* **core-config:** test for refactor version change ([3c3b364](https://github.com/JengYoung/semantic-release-test/commit/3c3b364d9555bd58d1938354f91e7d9baf9a1073))
+* **core-config:** test for refactor version up by scope ([41d7a6e](https://github.com/JengYoung/semantic-release-test/commit/41d7a6e27aec8fffd8b73d9743cdcf0b8932d81b))
+
 ## [2.0.0](https://github.com/JengYoung/semantic-release-test/compare/v1.0.7...v2.0.0) (2022-12-03)
 
 
