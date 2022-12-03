@@ -1,5 +1,13 @@
+# 🚦 CHANGELOG | 변경 사항을 기록해요.
 
-          # 🚦 CHANGELOG | 변경 사항
+## [1.0.5](https://github.com/JengYoung/semantic-release-test/compare/v1.0.4...v1.0.5) (2022-12-03)
+
+
+### Bug Fixes
+
+* **custom:** 타이틀이 코드 블럭으로 나오는 현상을 수정한다 ([2b3c99c](https://github.com/JengYoung/semantic-release-test/commit/2b3c99c8fb5352ccc9180516b118086202d22a0c))
+
+# 🚦 CHANGELOG | 변경 사항
           ---
           
         
