@@ -28,8 +28,8 @@ module.exports = {
           {"type": "perf", "release": "patch"},
           {"type": "revert", "release": "patch"},
           
-          {"type": "refactor", "scope": "core-*", "release": "patch"},
-          {"type": "refactor", "release": false},
+          {"type": "refactor", "scope": "core-*", "release": "minor"},
+          {"type": "refactor", "release": "patch"},
           
           {"type": "move", "release": false},
           {"type": "remove", "release": false},
