@@ -1,5 +1,16 @@
 # 🚦 CHANGELOG | 변경 사항을 기록해요.
 
+## [2.0.0](https://github.com/JengYoung/semantic-release-test/compare/v1.0.7...v2.0.0) (2022-12-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* **breaking:** removed test.md. It is NEW BIG WAVE for our application!
+
+### ✨ Features
+
+* **breaking:** test if breaking change makes major version up ([b023b80](https://github.com/JengYoung/semantic-release-test/commit/b023b809cf26048b06535d934b2b98d090ee2e13))
+
 ## [1.0.7](https://github.com/JengYoung/semantic-release-test/compare/v1.0.6...v1.0.7) (2022-12-03)
 
 
