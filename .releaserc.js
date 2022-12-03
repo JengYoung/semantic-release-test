@@ -20,7 +20,6 @@ module.exports = {
           {"scope": "breaking", "release": "major"},
 
           {"type": "docs", "scope": "README", "release": "patch"},
-          {"type": "refactor", "release": "minor"},
           
           {"type": "feat", "release": "minor"},
           {"type": "fix", "release": "patch"},
@@ -28,6 +27,9 @@ module.exports = {
           {"type": "style", "release": "patch"},
           {"type": "perf", "release": "patch"},
           {"type": "revert", "release": "patch"},
+          
+          {"type": "refactor", "scope": "core-*", "release": "patch"},
+          {"type": "refactor", "release": false},
           
           {"type": "move", "release": false},
           {"type": "remove", "release": false},
