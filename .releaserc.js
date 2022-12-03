@@ -31,11 +31,7 @@ module.exports = {
       "@semantic-release/changelog",
       {
         "changelogFile": "CHANGELOG.md",
-        "changelogTitle": `
-          # 🚦 CHANGELOG | 변경 사항
-          ---
-          
-        `
+        "changelogTitle": "# 🚦 CHANGELOG | 변경 사항을 기록해요."
       }
     ],
     [
