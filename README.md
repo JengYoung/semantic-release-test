@@ -77,3 +77,30 @@
 > **Generate release notes** for the commits added since the last release.
 
 실제 `index.js`부터 시작하면서 로직을 훑어봐도 찾지 못했는데, 이렇게 허무하게 끝났다.
+
+
+## 추가 변경 사항 - Changelog Customization
+
+`CHANGELOG.md`의 default는 `feat`과 `fix`만 지원한다.  
+하지만, 이는 [release-notes-generator](https://github.com/semantic-release/release-notes-generator)을 볼 때 `presetconfig`를 통해 바꿀 수 있다.  
+
+### `presetconfig`
+
+이 친구는 얼핏 넘어갈 만할 정도로 짧게 서술되어 있으나, `conventional-changelog`의 config spec을 따라간다고 한다.
+
+이는 다음과 같다.
+
+```json
+"types": [
+    {"type": "feat", "section": "Features"},
+    {"type": "fix", "section": "Bug Fixes"},
+    {"type": "chore", "hidden": true},
+    {"type": "docs", "hidden": true},
+    {"type": "style", "hidden": true},
+    {"type": "refactor", "hidden": true},
+    {"type": "perf", "hidden": true},
+    {"type": "test", "hidden": true}
+]
+```
+
+따라서 `presetConfig` 역시 `.cz-config.js`와 같은 방식으로 바꾸면 된다.
