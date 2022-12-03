@@ -1,5 +1,17 @@
 # 🚦 CHANGELOG | 변경 사항을 기록해요.
 
+## [1.0.7](https://github.com/JengYoung/semantic-release-test/compare/v1.0.6...v1.0.7) (2022-12-03)
+
+
+### 💫 CI/CD
+
+* **config:** changed ci config for seeing logs in changelog ([6d9afc3](https://github.com/JengYoung/semantic-release-test/commit/6d9afc35ea217c11721d2edd40df94359db289f6))
+
+
+### 📝 Docs
+
+* **README:** 리드미를 수정한다 ([036bb05](https://github.com/JengYoung/semantic-release-test/commit/036bb0558e6789adcf4335ed769842cc531d8139))
+
 ## [1.0.6](https://github.com/JengYoung/semantic-release-test/compare/v1.0.5...v1.0.6) (2022-12-03)
 
 ## [1.0.5](https://github.com/JengYoung/semantic-release-test/compare/v1.0.4...v1.0.5) (2022-12-03)
