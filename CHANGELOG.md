@@ -1,5 +1,7 @@
 # 🚦 CHANGELOG | 변경 사항을 기록해요.
 
+## [1.0.6](https://github.com/JengYoung/semantic-release-test/compare/v1.0.5...v1.0.6) (2022-12-03)
+
 ## [1.0.5](https://github.com/JengYoung/semantic-release-test/compare/v1.0.4...v1.0.5) (2022-12-03)
 
 
