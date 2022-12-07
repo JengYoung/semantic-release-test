@@ -1,5 +1,26 @@
 # 🚦 CHANGELOG | 변경 사항을 기록해요.
 
+## [2.3.0](https://github.com/JengYoung/semantic-release-test/compare/v2.2.0...v2.3.0) (2022-12-07)
+
+
+### 🌈 Performance
+
+* **wrong codes:** 환경변수 이름을 변경하여 테스트한다 ([752dfcb](https://github.com/JengYoung/semantic-release-test/commit/752dfcb9b8511f6ae3edee7ec410f2fb982341f1))
+
+
+### 🐛 Bug Fixes
+
+* **workflow:** ubuntu를 변경한다 ([f94cfaf](https://github.com/JengYoung/semantic-release-test/commit/f94cfaf772867934dc9ee17b9321f6553b33b81d))
+* **wrong codes:** 변수명을 고치고 다시 테스트한다 ([222499a](https://github.com/JengYoung/semantic-release-test/commit/222499a1a67fdb5565320c4fb3ca60aebb6ae73f))
+
+
+### ✨ Features
+
+* **config:** private을 추가한다 ([64ff411](https://github.com/JengYoung/semantic-release-test/commit/64ff41160d69bd8b9e61684d801de1566899054f))
+* **workflow:** 버저닝 자동화 테스트 겸 npm plugin을 추가할 시 릴리즈 노트가 생성되지 않는지 확인한다 ([b46a10f](https://github.com/JengYoung/semantic-release-test/commit/b46a10ffeb271c3bd1bbe3600bc143230ddf1ecc))
+* **workflow:** 토큰을 넣고 다시 테스트한다 ([6c6479b](https://github.com/JengYoung/semantic-release-test/commit/6c6479bf4512a9e3b2333b6e07a793cb56b1bd80))
+* **wrong codes:** 변수명을 고치고 테스트한다 ([a47cde8](https://github.com/JengYoung/semantic-release-test/commit/a47cde8d79438444e73fce3804f62733b900eccf))
+
 ## [2.2.0](https://github.com/JengYoung/semantic-release-test/compare/v2.1.1...v2.2.0) (2022-12-07)
 
 
