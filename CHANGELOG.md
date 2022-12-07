@@ -1,5 +1,16 @@
 # 🚦 CHANGELOG | 변경 사항을 기록해요.
 
+## [3.0.0](https://github.com/JengYoung/semantic-release-test/compare/v2.3.0...v3.0.0) (2022-12-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* **breaking:** 기본값을 삭제했다는 건 엄청난 일이다.
+
+### 📦 Chores
+
+* **breaking:** 기본값을 삭제하고 메이저 버전을 올려본다 ([23dbf62](https://github.com/JengYoung/semantic-release-test/commit/23dbf62ed06e9f0ee71ec0bce6d0bc88ebcc8ab9))
+
 ## [2.3.0](https://github.com/JengYoung/semantic-release-test/compare/v2.2.0...v2.3.0) (2022-12-07)
 
 
