@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG | 변경 사항을 기록해요.
 
+## [2.2.0](https://github.com/JengYoung/semantic-release-test/compare/v2.1.1...v2.2.0) (2022-12-07)
+
+
+### ✨ Features
+
+* **config:** 테스트 겸 버전을 명시한 후 버전이 바뀌는지 확인한다 ([6a10a54](https://github.com/JengYoung/semantic-release-test/commit/6a10a54c5f8f019eefd9a0e5be9424ba98d170c7))
+
 ## [2.1.1](https://github.com/JengYoung/semantic-release-test/compare/v2.1.0...v2.1.1) (2022-12-07)
 
 
