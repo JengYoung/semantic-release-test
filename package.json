@@ -1,6 +1,8 @@
 {
   "version": "0.0.0",
   "name": "semantic-release-test",
+  "description": "test for semantic-release",
+  "author": "JengYoung",
   "packageManager": "yarn@3.3.0",
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
@@ -8,6 +10,7 @@
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^9.0.1",
     "@semantic-release/release-notes-generator": "^10.0.3",
     "commitizen": "^4.2.5",
     "conventional-changelog-conventionalcommits": "^5.0.0",
