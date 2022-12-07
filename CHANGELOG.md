@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG | 변경 사항을 기록해요.
 
+## [3.0.1](https://github.com/JengYoung/semantic-release-test/compare/v3.0.0...v3.0.1) (2022-12-07)
+
+
+### 🌈 Performance
+
+* **workflow:** npm token이 없어도 되는지 테스트한다 ([134852f](https://github.com/JengYoung/semantic-release-test/commit/134852ffd97aa02d60db689efd0209e5b0db1957))
+
 ## [3.0.0](https://github.com/JengYoung/semantic-release-test/compare/v2.3.0...v3.0.0) (2022-12-07)
 
 
