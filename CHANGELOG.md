@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG | 변경 사항을 기록해요.
 
+## [2.1.1](https://github.com/JengYoung/semantic-release-test/compare/v2.1.0...v2.1.1) (2022-12-07)
+
+
+### 🌈 Performance
+
+* **workflow:** 테스트 겸 package.json을 asset에 추가한다 ([bb81f7a](https://github.com/JengYoung/semantic-release-test/commit/bb81f7aa25a44aacfbe136979e96f8f530953374))
+
 ## [2.1.0](https://github.com/JengYoung/semantic-release-test/compare/v2.0.0...v2.1.0) (2022-12-03)
 
 
